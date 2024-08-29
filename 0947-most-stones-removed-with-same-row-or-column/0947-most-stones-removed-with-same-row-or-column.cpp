@@ -1,47 +1,59 @@
 class Solution {
-    void removeStonesLevels(vector<vector<int>>& stones, int n, vector<vector<int>>&preLevel, vector<bool>& take) {
-	if (preLevel.empty())
+int findOp(int v, vector<int>& parent) {
+	if (v == parent[v])
+		return v;
+
+	int result = findOp(parent[v], parent);
+
+	return parent[v] = result;
+}
+void Union(int v, int u, vector<int>& parent, vector<int>& size) {
+	int vParent = findOp(v, parent);
+	int uParent = findOp(u, parent);
+
+	if (vParent == uParent)
 		return;
 
-	int len = preLevel.size();
-	vector<vector<int>>nextLevel;
-
-	for (int i = 0; i < len; i++) {
-		for (int j = 0; j < n; j++) {
-			if (take[j] || (preLevel[i][0] == stones[j][0] && preLevel[i][1] == stones[j][1]))
-				continue;
-
-			if (preLevel[i][0] == stones[j][0] || preLevel[i][1] == stones[j][1]) {
-				take[j] = 1;
-				nextLevel.push_back({ stones[j][0], stones[j][1] });
-			}
-		}
+	if (size[vParent] > size[uParent]) {
+		parent[uParent] = vParent;
+		size[vParent] += size[uParent];
 	}
-	removeStonesLevels(stones, n, nextLevel, take);
+	else{
+		parent[vParent] = uParent;
+		size[uParent] += size[vParent];
+	}
 }
 public:
+
     int removeStones(vector<vector<int>>& stones) {
         int n = stones.size();
-
-        vector<bool>take(n, false);
-        vector<vector<int>>firstLevel;
+        map<int, vector<int>>right, left;
+        vector<int>parent(n), size(n, 1);
 
         for (int i = 0; i < n; i++) {
-            if (!take[i]) {
-                take[i] = 1;
-                firstLevel.push_back(stones[i]);
-                removeStonesLevels(stones, n, firstLevel, take);
-                firstLevel.pop_back();
-                take[i] = 0;
-            }
+            parent[i] = i;
+
+            left[stones[i][0]].push_back(i);
+            right[stones[i][1]].push_back(i);
+        }
+
+        for(int i= 0; i < n; i++){
+            for (int stoneIndex : left[stones[i][0]])
+                Union(i, stoneIndex, parent, size);
+            for (int stoneIndex : right[stones[i][1]])
+                Union(i, stoneIndex, parent, size);
+        }
+
+        map<int, int>mp;
+
+        for (int i = 0; i < n; i++) {
+            mp[findOp(i, parent)]++;
         }
 
         int res = 0;
-        for (int i = 0; i < n; i++) {
-            if (take[i])
-                res++;
+        for (auto entry : mp) {
+            res += entry.second - 1;
         }
-
         return res;
     }
 };
