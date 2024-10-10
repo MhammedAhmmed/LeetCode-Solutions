@@ -44,4 +44,8 @@ Collection of Leetcode problems I solve.
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Database
+|  |
+| ------- |
+| [1415-students-and-examinations](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1415-students-and-examinations) |
 <!---LeetCode Topics End-->
