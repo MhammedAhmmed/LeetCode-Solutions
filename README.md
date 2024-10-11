@@ -54,6 +54,7 @@ Collection of Leetcode problems I solve.
 ## Database
 |  |
 | ------- |
+| [0596-classes-more-than-5-students](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0596-classes-more-than-5-students) |
 | [1415-students-and-examinations](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1415-students-and-examinations) |
 ## Heap (Priority Queue)
 |  |
