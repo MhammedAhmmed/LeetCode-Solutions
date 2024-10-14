@@ -55,6 +55,7 @@ Collection of Leetcode problems I solve.
 ## Stack
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [1002-maximum-width-ramp](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1002-maximum-width-ramp) |
 ## Monotonic Stack
 |  |
@@ -95,6 +96,7 @@ Collection of Leetcode problems I solve.
 ## Tree
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
@@ -104,6 +106,7 @@ Collection of Leetcode problems I solve.
 ## Binary Tree
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Search
@@ -114,4 +117,16 @@ Collection of Leetcode problems I solve.
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
+## Design
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
