@@ -16,6 +16,7 @@ Collection of Leetcode problems I solve.
 | [1002-maximum-width-ramp](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1002-maximum-width-ramp) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +37,7 @@ Collection of Leetcode problems I solve.
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Sorting
 |  |
 | ------- |
@@ -73,6 +75,7 @@ Collection of Leetcode problems I solve.
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Prefix Sum
 |  |
 | ------- |
