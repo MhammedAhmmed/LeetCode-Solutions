@@ -38,6 +38,7 @@ Collection of Leetcode problems I solve.
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [3195-separate-black-and-white-balls](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3195-separate-black-and-white-balls) |
 ## Sorting
 |  |
 | ------- |
@@ -52,6 +53,7 @@ Collection of Leetcode problems I solve.
 | [0027-remove-element](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [3195-separate-black-and-white-balls](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3195-separate-black-and-white-balls) |
 ## Stack
 |  |
 | ------- |
@@ -87,6 +89,7 @@ Collection of Leetcode problems I solve.
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0383-ransom-note) |
+| [3195-separate-black-and-white-balls](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3195-separate-black-and-white-balls) |
 ## Counting
 |  |
 | ------- |
