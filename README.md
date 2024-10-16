@@ -36,6 +36,7 @@ Collection of Leetcode problems I solve.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1304-longest-happy-string](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1304-longest-happy-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3195-separate-black-and-white-balls) |
@@ -78,6 +79,7 @@ Collection of Leetcode problems I solve.
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1304-longest-happy-string](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1304-longest-happy-string) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -89,6 +91,7 @@ Collection of Leetcode problems I solve.
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0383-ransom-note) |
+| [1304-longest-happy-string](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1304-longest-happy-string) |
 | [3195-separate-black-and-white-balls](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3195-separate-black-and-white-balls) |
 ## Counting
 |  |
