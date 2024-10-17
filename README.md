@@ -37,6 +37,7 @@ Collection of Leetcode problems I solve.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0670-maximum-swap](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0670-maximum-swap) |
 | [1304-longest-happy-string](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1304-longest-happy-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -153,4 +154,5 @@ Collection of Leetcode problems I solve.
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0670-maximum-swap](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0670-maximum-swap) |
 <!---LeetCode Topics End-->
