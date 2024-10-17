@@ -81,6 +81,7 @@ Collection of Leetcode problems I solve.
 | ------- |
 | [0596-classes-more-than-5-students](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0596-classes-more-than-5-students) |
 | [0619-biggest-single-number](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0619-biggest-single-number) |
+| [0620-not-boring-movies](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0620-not-boring-movies) |
 | [1415-students-and-examinations](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1415-students-and-examinations) |
 | [1877-find-followers-count](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1877-find-followers-count) |
 ## Heap (Priority Queue)
