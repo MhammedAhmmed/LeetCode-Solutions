@@ -14,6 +14,7 @@ Collection of Leetcode problems I solve.
 | [0150-evaluate-reverse-polish-notation](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0228-summary-ranges](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0228-summary-ranges) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0560-subarray-sum-equals-k](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
