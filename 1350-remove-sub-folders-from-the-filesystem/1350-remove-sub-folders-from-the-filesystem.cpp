@@ -22,10 +22,7 @@ class Solution {
 
 public:
     vector<string> removeSubfolders(vector<string>& folder) {
-        sort(folder.begin(), folder.end(),
-             [](const std::string& a, const std::string& b) {
-                 return a.length() < b.length();
-             });
+        sort(folder.begin(), folder.end());
 
         unordered_set<string> us;
         us.insert(folder[0]);
