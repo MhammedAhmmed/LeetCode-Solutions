@@ -4,7 +4,6 @@ public:
         int maxNum = *max_element(nums.begin(), nums.end()) + 1;
 
         vector<bool> exist(maxNum, false);
-        vector<bool> vis(maxNum, false);
 
         for (int num : nums) {
             exist[num] = 1;
@@ -13,12 +12,12 @@ public:
         int res = 0;
 
         for (int i = 2; i < maxNum; i++) {
-            if (!vis[i] && exist[i]) {
+            if (exist[i]) {
                 int count = 0;
                 long long index = i;
                 while (index < maxNum && exist[index]) {
                     count++;
-                    vis[index] = true;
+                    exist[index] = false;
                     index = index * index;
                 }
                 res = max(res, count);
