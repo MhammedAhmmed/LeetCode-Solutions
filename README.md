@@ -23,6 +23,7 @@ Collection of Leetcode problems I solve.
 | [1016-subarray-sums-divisible-by-k](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1923-sentence-similarity-iii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1923-sentence-similarity-iii) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
