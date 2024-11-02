@@ -163,6 +163,7 @@ Collection of Leetcode problems I solve.
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1923-sentence-similarity-iii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1923-sentence-similarity-iii) |
+| [2580-circular-sentence](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2580-circular-sentence) |
 | [3195-separate-black-and-white-balls](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3195-separate-black-and-white-balls) |
 ## Counting
 |  |
