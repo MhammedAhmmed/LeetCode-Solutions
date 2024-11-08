@@ -1,31 +1,25 @@
 class Solution {
-    int coinChangeTD(vector<int>& coins, int n, vector<int>& dp, int amount) {
-        if (dp[amount] != -2)
-            return dp[amount];
+public:
+    int coinChange(vector<int>& coins, int amount) {
+        vector<int> dp(amount + 1, -1);
 
-        int res = amount;
-        bool found = false;
-        for (int i = 0; i < n; i++) {
-            if (amount - coins[i] >= 0) {
-                int remamnount = coinChangeTD(coins, n, dp, amount - coins[i]);
-                if (remamnount != -1) {
-                    found = true;
-                    res = min(res, 1 + remamnount);
+        dp[0] = 0;
+        int n = coins.size();
+
+        for (int i = 1; i <= amount; i++) {
+            for (int j = 0; j < n; j++) {
+                if (i - coins[j] >= 0) {
+                    if (dp[i - coins[j]] != -1) {
+                        if (dp[i] == -1) {
+                            dp[i] = 1 + dp[i - coins[j]];
+                        } else {
+                            dp[i] = min(dp[i], 1 + dp[i - coins[j]]);
+                        }
+                    }
                 }
             }
         }
-        if (found) {
-            return dp[amount] = res;
-        }
 
-        return dp[amount] = -1;
-    }
-
-public:
-    int coinChange(vector<int>& coins, int amount) {
-        vector<int> dp(amount + 1, -2);
-        dp[0] = 0;
-
-        return coinChangeTD(coins, coins.size(), dp, amount);
+        return dp[amount];
     }
 };
