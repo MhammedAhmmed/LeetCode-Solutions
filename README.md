@@ -30,6 +30,7 @@ Collection of Leetcode problems I solve.
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1833-find-the-highest-altitude](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1833-find-the-highest-altitude) |
 | [1923-sentence-similarity-iii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1923-sentence-similarity-iii) |
+| [1940-maximum-xor-for-each-query](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2331-intersection-of-multiple-arrays](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2331-intersection-of-multiple-arrays) |
@@ -155,6 +156,7 @@ Collection of Leetcode problems I solve.
 | [1016-subarray-sums-divisible-by-k](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1833-find-the-highest-altitude](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1833-find-the-highest-altitude) |
+| [1940-maximum-xor-for-each-query](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## String
 |  |
@@ -230,6 +232,7 @@ Collection of Leetcode problems I solve.
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
+| [1940-maximum-xor-for-each-query](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
