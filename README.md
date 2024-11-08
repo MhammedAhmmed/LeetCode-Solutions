@@ -15,6 +15,7 @@ Collection of Leetcode problems I solve.
 | [0189-rotate-array](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0228-summary-ranges) |
+| [0322-coin-change](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0560-subarray-sum-equals-k](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -124,6 +125,7 @@ Collection of Leetcode problems I solve.
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0322-coin-change](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -247,6 +249,7 @@ Collection of Leetcode problems I solve.
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0322-coin-change](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0871-keys-and-rooms](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0871-keys-and-rooms) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
