@@ -106,6 +106,7 @@ Collection of Leetcode problems I solve.
 | [0086-partition-list](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0345-reverse-vowels-of-a-string](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
@@ -166,6 +167,7 @@ Collection of Leetcode problems I solve.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0345-reverse-vowels-of-a-string](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0443-string-compression) |
