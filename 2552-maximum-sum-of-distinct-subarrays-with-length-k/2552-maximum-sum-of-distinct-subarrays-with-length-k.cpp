@@ -4,7 +4,7 @@ public:
         long long res = 0, tempRes = 0;
 
         int p1 = 0, p2 = 0, n = nums.size();
-        map<int, int> freq;
+        unordered_map<int, int> freq;
 
         while (p2 < n) {
             tempRes += nums[p2];
