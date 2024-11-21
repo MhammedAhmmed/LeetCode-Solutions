@@ -10,6 +10,7 @@ Collection of Leetcode problems I solve.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -123,6 +124,7 @@ Collection of Leetcode problems I solve.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0086-partition-list](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0086-partition-list) |
@@ -142,6 +144,7 @@ Collection of Leetcode problems I solve.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0173-binary-search-tree-iterator](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
@@ -151,11 +154,13 @@ Collection of Leetcode problems I solve.
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [1002-maximum-width-ramp](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1002-maximum-width-ramp) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0322-coin-change](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0392-is-subsequence) |
