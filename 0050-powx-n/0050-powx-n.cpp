@@ -9,7 +9,7 @@ public:
 
         double res = halfPow * halfPow;
 
-        if ((abs(n) & 1) == 1) {
+        if ((n & 1) == 1) {
             if (n > 0) {
                 res *= x;
             } else {
