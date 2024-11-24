@@ -1,24 +1,31 @@
+
 class Solution {
 public:
     int maxVowels(string s, int k) {
-        int res = 0, p1 = 0, p2 = 0;
-        int n = s.size();
+        vector<int> freq(26, 0);
 
-        map<char, int> freq;
+        for (int i = 0; i < k - 1; i++) {
+            freq[s[i] - 'a']++;
+        }
+
+        int res = 0;
+
+        int p1 = 0, p2 = k - 1, n = s.size();
+
         while (p2 < n) {
-            freq[s[p2]]++;
+            freq[s[p2] - 'a']++;
 
-            if (p2 - p1 + 1 == k) {
-                int vowel =
-                    freq['a'] + freq['i'] + freq['e'] + freq['o'] + freq['u'];
-                res = max(res, vowel);
+            int vowels = freq['a' - 'a'] + freq['i' - 'a'] + freq['e' - 'a'] +
+                         freq['o' - 'a'] + freq['u' - 'a'];
 
-                freq[s[p1]]--;
-                p1++;
-            }
+            res = max(res, vowels);
+
+            freq[s[p1] - 'a']--;
 
             p2++;
+            p1++;
         }
+
         return res;
     }
 };
