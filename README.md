@@ -366,6 +366,7 @@ Collection of Leetcode problems I solve.
 |  |
 | ------- |
 | [0871-keys-and-rooms](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0871-keys-and-rooms) |
+| [3189-find-champion-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3189-find-champion-ii) |
 ## Matrix
 |  |
 | ------- |
