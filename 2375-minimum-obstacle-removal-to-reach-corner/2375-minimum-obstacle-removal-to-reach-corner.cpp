@@ -8,7 +8,6 @@ public:
         int m = grid.size(), n = grid[0].size();
 
         vector<vector<int>> dis(m, vector<int>(n, INT_MAX));
-        vector<vector<bool>> vis(m, vector<bool>(n, false));
 
         priority_queue<pair<int, pair<int, int>>,
                        vector<pair<int, pair<int, int>>>,
@@ -28,13 +27,11 @@ public:
 
             pq.pop();
 
-            vis[pos.first][pos.second] = 1;
-
             for (int i = 0; i < 4; i++) {
                 int x = pos.first + X[i];
                 int y = pos.second + Y[i];
 
-                if (validPos(x, y, m, n) && !vis[x][y]) {
+                if (validPos(x, y, m, n)) {
                     if (dis[pos.first][pos.second] + grid[x][y] < dis[x][y]) {
                         dis[x][y] = dis[pos.first][pos.second] + grid[x][y];
 
