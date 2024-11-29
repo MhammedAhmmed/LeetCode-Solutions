@@ -175,6 +175,7 @@ Collection of Leetcode problems I solve.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0072-edit-distance](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0322-coin-change](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0392-is-subsequence) |
@@ -217,6 +218,7 @@ Collection of Leetcode problems I solve.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0072-edit-distance](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0392-is-subsequence) |
