@@ -25,6 +25,7 @@ Collection of Leetcode problems I solve.
 | [0560-subarray-sum-equals-k](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0747-min-cost-climbing-stairs](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0787-sliding-puzzle](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1002-maximum-width-ramp](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1002-maximum-width-ramp) |
@@ -189,6 +190,7 @@ Collection of Leetcode problems I solve.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0322-coin-change](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+| [0747-min-cost-climbing-stairs](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
