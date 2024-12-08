@@ -63,6 +63,7 @@ Collection of Leetcode problems I solve.
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2554-minimum-total-distance-traveled](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2586-longest-square-streak-in-an-array) |
@@ -177,6 +178,7 @@ Collection of Leetcode problems I solve.
 | [2232-adding-spaces-to-a-string](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -235,6 +237,7 @@ Collection of Leetcode problems I solve.
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2413-smallest-number-in-infinite-set](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2413-smallest-number-in-infinite-set) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Prefix Sum
 |  |
@@ -421,6 +424,7 @@ Collection of Leetcode problems I solve.
 | [2232-adding-spaces-to-a-string](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Trie
 |  |
 | ------- |
