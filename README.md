@@ -95,6 +95,7 @@ Collection of Leetcode problems I solve.
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2331-intersection-of-multiple-arrays](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2331-intersection-of-multiple-arrays) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2413-smallest-number-in-infinite-set](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -232,6 +233,7 @@ Collection of Leetcode problems I solve.
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2164-two-best-non-overlapping-events](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2413-smallest-number-in-infinite-set](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2413-smallest-number-in-infinite-set) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Prefix Sum
@@ -366,6 +368,7 @@ Collection of Leetcode problems I solve.
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [2413-smallest-number-in-infinite-set](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2413-smallest-number-in-infinite-set) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -475,4 +478,8 @@ Collection of Leetcode problems I solve.
 |  |
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2201-valid-arrangement-of-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [2413-smallest-number-in-infinite-set](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2413-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
