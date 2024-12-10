@@ -301,6 +301,7 @@ Collection of Leetcode problems I solve.
 | [0092-reverse-linked-list-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0328-odd-even-linked-list](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0328-odd-even-linked-list) |
 ## Tree
 |  |
 | ------- |
