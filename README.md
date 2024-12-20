@@ -332,6 +332,7 @@ Collection of Leetcode problems I solve.
 | [0437-path-sum-iii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0437-path-sum-iii) |
 | [0988-flip-equivalent-binary-trees](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -348,6 +349,7 @@ Collection of Leetcode problems I solve.
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2201-valid-arrangement-of-pairs](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2201-valid-arrangement-of-pairs) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
@@ -362,6 +364,7 @@ Collection of Leetcode problems I solve.
 | [0437-path-sum-iii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0437-path-sum-iii) |
 | [0988-flip-equivalent-binary-trees](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -422,6 +425,7 @@ Collection of Leetcode problems I solve.
 | [0871-keys-and-rooms](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0871-keys-and-rooms) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
