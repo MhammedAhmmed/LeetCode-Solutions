@@ -22,6 +22,7 @@ Collection of Leetcode problems I solve.
 | [0334-increasing-triplet-subsequence](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0494-target-sum](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -227,6 +228,7 @@ Collection of Leetcode problems I solve.
 | [0124-binary-tree-maximum-path-sum](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0322-coin-change](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+| [0494-target-sum](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -452,6 +454,7 @@ Collection of Leetcode problems I solve.
 ## Backtracking
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Enumeration
