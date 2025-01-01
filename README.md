@@ -272,6 +272,7 @@ Collection of Leetcode problems I solve.
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1833-find-the-highest-altitude](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1833-find-the-highest-altitude) |
 | [1940-maximum-xor-for-each-query](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1940-maximum-xor-for-each-query) |
@@ -292,6 +293,7 @@ Collection of Leetcode problems I solve.
 | [1302-delete-characters-to-make-fancy-string](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
