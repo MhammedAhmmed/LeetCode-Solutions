@@ -62,6 +62,7 @@ Collection of Leetcode problems I solve.
 | [2331-intersection-of-multiple-arrays](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2331-intersection-of-multiple-arrays) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2358-number-of-ways-to-split-array](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2428-equal-row-and-column-pairs](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -276,6 +277,7 @@ Collection of Leetcode problems I solve.
 | [1694-make-sum-divisible-by-p](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1833-find-the-highest-altitude](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1833-find-the-highest-altitude) |
 | [1940-maximum-xor-for-each-query](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1940-maximum-xor-for-each-query) |
+| [2358-number-of-ways-to-split-array](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3427-special-array-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3427-special-array-ii) |
 ## String
