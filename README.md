@@ -86,6 +86,7 @@ Collection of Leetcode problems I solve.
 | [2868-continuous-subarrays](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3427-special-array-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -324,6 +325,7 @@ Collection of Leetcode problems I solve.
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3195-separate-black-and-white-balls) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3451-string-compression-iii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3451-string-compression-iii) |
 ## Counting
 |  |
@@ -502,6 +504,7 @@ Collection of Leetcode problems I solve.
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Graph
 |  |
 | ------- |
@@ -529,6 +532,7 @@ Collection of Leetcode problems I solve.
 | [1524-string-matching-in-an-array](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -570,4 +574,12 @@ Collection of Leetcode problems I solve.
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0969-number-of-recent-calls) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
