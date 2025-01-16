@@ -352,6 +352,7 @@ Collection of Leetcode problems I solve.
 | [0086-partition-list](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0328-odd-even-linked-list](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0328-odd-even-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -359,6 +360,7 @@ Collection of Leetcode problems I solve.
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0173-binary-search-tree-iterator](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
@@ -378,6 +380,7 @@ Collection of Leetcode problems I solve.
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -396,6 +399,7 @@ Collection of Leetcode problems I solve.
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0173-binary-search-tree-iterator](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
@@ -464,6 +468,7 @@ Collection of Leetcode problems I solve.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
