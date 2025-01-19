@@ -85,6 +85,7 @@ Collection of Leetcode problems I solve.
 | [2699-count-the-number-of-fair-pairs](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2716-prime-subtraction-operation) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2792-neighboring-bitwise-xor](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2792-neighboring-bitwise-xor) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2868-continuous-subarrays) |
@@ -164,6 +165,7 @@ Collection of Leetcode problems I solve.
 | [2616-maximal-score-after-applying-k-operations](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2716-prime-subtraction-operation) |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3195-separate-black-and-white-balls](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3195-separate-black-and-white-balls) |
 ## Sorting
 |  |
