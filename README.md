@@ -50,6 +50,7 @@ Collection of Leetcode problems I solve.
 | [1755-defuse-the-bomb](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1833-find-the-highest-altitude](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1833-find-the-highest-altitude) |
+| [1876-map-of-highest-peak](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1876-map-of-highest-peak) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1923-sentence-similarity-iii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1923-sentence-similarity-iii) |
@@ -484,6 +485,7 @@ Collection of Leetcode problems I solve.
 | [0515-find-largest-value-in-each-tree-row](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0787-sliding-puzzle](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0787-sliding-puzzle) |
 | [0871-keys-and-rooms](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0871-keys-and-rooms) |
+| [1876-map-of-highest-peak](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1876-map-of-highest-peak) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -547,6 +549,7 @@ Collection of Leetcode problems I solve.
 | [0787-sliding-puzzle](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1876-map-of-highest-peak](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1876-map-of-highest-peak) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2089-maximum-matrix-sum](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2089-maximum-matrix-sum) |
 | [2145-grid-game](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2145-grid-game) |
