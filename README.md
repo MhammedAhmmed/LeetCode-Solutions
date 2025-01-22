@@ -396,6 +396,7 @@ Collection of Leetcode problems I solve.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0547-number-of-provinces](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0871-keys-and-rooms) |
 | [0988-flip-equivalent-binary-trees](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -483,6 +484,7 @@ Collection of Leetcode problems I solve.
 | [0199-binary-tree-right-side-view](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0547-number-of-provinces](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0787-sliding-puzzle](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0787-sliding-puzzle) |
 | [0871-keys-and-rooms](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0871-keys-and-rooms) |
 | [1876-map-of-highest-peak](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1876-map-of-highest-peak) |
@@ -538,6 +540,7 @@ Collection of Leetcode problems I solve.
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0871-keys-and-rooms) |
 | [2201-valid-arrangement-of-pairs](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -618,4 +621,8 @@ Collection of Leetcode problems I solve.
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
