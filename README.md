@@ -102,6 +102,7 @@ Collection of Leetcode problems I solve.
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0219-contains-duplicate-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0383-ransom-note) |
@@ -364,6 +365,7 @@ Collection of Leetcode problems I solve.
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0328-odd-even-linked-list](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0328-odd-even-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Tree
@@ -464,6 +466,7 @@ Collection of Leetcode problems I solve.
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0232-implement-queue-using-stacks](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -625,4 +628,8 @@ Collection of Leetcode problems I solve.
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
