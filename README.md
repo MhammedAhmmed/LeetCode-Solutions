@@ -159,6 +159,7 @@ Collection of Leetcode problems I solve.
 | [0334-increasing-triplet-subsequence](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0649-dota2-senate](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0649-dota2-senate) |
 | [0670-maximum-swap](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0670-maximum-swap) |
 | [0780-max-chunks-to-make-sorted](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1304-longest-happy-string](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1304-longest-happy-string) |
@@ -317,6 +318,7 @@ Collection of Leetcode problems I solve.
 | [0394-decode-string](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+| [0649-dota2-senate](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0649-dota2-senate) |
 | [0812-rotate-string](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0952-word-subsets) |
 | [1197-parsing-a-boolean-expression](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1197-parsing-a-boolean-expression) |
@@ -588,6 +590,7 @@ Collection of Leetcode problems I solve.
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0649-dota2-senate](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0649-dota2-senate) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0969-number-of-recent-calls](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0969-number-of-recent-calls) |
 | [2868-continuous-subarrays](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2868-continuous-subarrays) |
