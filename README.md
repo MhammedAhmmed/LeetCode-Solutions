@@ -365,6 +365,7 @@ Collection of Leetcode problems I solve.
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0092-reverse-linked-list-ii) |
@@ -531,6 +532,7 @@ Collection of Leetcode problems I solve.
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0394-decode-string](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1197-parsing-a-boolean-expression) |
