@@ -39,6 +39,7 @@ Collection of Leetcode problems I solve.
 | [1319-unique-number-of-occurrences](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1396-count-servers-that-communicate](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1524-string-matching-in-an-array](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1524-string-matching-in-an-array) |
@@ -351,6 +352,7 @@ Collection of Leetcode problems I solve.
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0383-ransom-note) |
+| [1396-count-servers-that-communicate](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [2331-intersection-of-multiple-arrays](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2331-intersection-of-multiple-arrays) |
@@ -402,6 +404,7 @@ Collection of Leetcode problems I solve.
 | [0871-keys-and-rooms](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0871-keys-and-rooms) |
 | [0988-flip-equivalent-binary-trees](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1396-count-servers-that-communicate](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2201-valid-arrangement-of-pairs](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2201-valid-arrangement-of-pairs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -490,6 +493,7 @@ Collection of Leetcode problems I solve.
 | [0547-number-of-provinces](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0787-sliding-puzzle](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0787-sliding-puzzle) |
 | [0871-keys-and-rooms](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0871-keys-and-rooms) |
+| [1396-count-servers-that-communicate](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1876-map-of-highest-peak) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -554,6 +558,7 @@ Collection of Leetcode problems I solve.
 | ------- |
 | [0787-sliding-puzzle](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1396-count-servers-that-communicate](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1876-map-of-highest-peak](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1876-map-of-highest-peak) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -628,6 +633,7 @@ Collection of Leetcode problems I solve.
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+| [1396-count-servers-that-communicate](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 ## Doubly-Linked List
 |  |
 | ------- |
