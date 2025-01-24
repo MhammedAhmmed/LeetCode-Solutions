@@ -407,6 +407,7 @@ Collection of Leetcode problems I solve.
 | [0437-path-sum-iii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+| [0820-find-eventual-safe-states](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0871-keys-and-rooms) |
 | [0988-flip-equivalent-binary-trees](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -499,6 +500,7 @@ Collection of Leetcode problems I solve.
 | [0515-find-largest-value-in-each-tree-row](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0787-sliding-puzzle](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0787-sliding-puzzle) |
+| [0820-find-eventual-safe-states](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0871-keys-and-rooms) |
 | [1396-count-servers-that-communicate](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1876-map-of-highest-peak) |
@@ -557,6 +559,7 @@ Collection of Leetcode problems I solve.
 | ------- |
 | [0399-evaluate-division](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+| [0820-find-eventual-safe-states](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0871-keys-and-rooms) |
 | [2201-valid-arrangement-of-pairs](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -650,4 +653,8 @@ Collection of Leetcode problems I solve.
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0146-lru-cache) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
