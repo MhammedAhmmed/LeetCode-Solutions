@@ -250,6 +250,7 @@ Collection of Leetcode problems I solve.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0072-edit-distance](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -315,6 +316,7 @@ Collection of Leetcode problems I solve.
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -532,6 +534,7 @@ Collection of Leetcode problems I solve.
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0494-target-sum](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
