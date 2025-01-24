@@ -313,6 +313,7 @@ Collection of Leetcode problems I solve.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0383-ransom-note) |
@@ -465,6 +466,7 @@ Collection of Leetcode problems I solve.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [1940-maximum-xor-for-each-query](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -518,6 +520,7 @@ Collection of Leetcode problems I solve.
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -544,6 +547,7 @@ Collection of Leetcode problems I solve.
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
