@@ -90,6 +90,7 @@ Collection of Leetcode problems I solve.
 | [2692-take-gifts-from-the-richest-pile](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2716-prime-subtraction-operation) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2792-neighboring-bitwise-xor](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2792-neighboring-bitwise-xor) |
@@ -434,6 +435,7 @@ Collection of Leetcode problems I solve.
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Binary Tree
 |  |
@@ -535,6 +537,7 @@ Collection of Leetcode problems I solve.
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Math
 |  |
@@ -611,6 +614,7 @@ Collection of Leetcode problems I solve.
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2428-equal-row-and-column-pairs](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## String Matching
 |  |
@@ -681,6 +685,7 @@ Collection of Leetcode problems I solve.
 | [0399-evaluate-division](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [1396-count-servers-that-communicate](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Doubly-Linked List
 |  |
