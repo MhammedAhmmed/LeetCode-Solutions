@@ -113,6 +113,7 @@ Collection of Leetcode problems I solve.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0138-copy-list-with-random-pointer](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0146-lru-cache) |
+| [0208-implement-trie-prefix-tree](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0383-ransom-note) |
@@ -335,6 +336,7 @@ Collection of Leetcode problems I solve.
 | [0068-text-justification](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0072-edit-distance) |
+| [0208-implement-trie-prefix-tree](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0392-is-subsequence) |
@@ -513,6 +515,7 @@ Collection of Leetcode problems I solve.
 | ------- |
 | [0146-lru-cache](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0208-implement-trie-prefix-tree](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0232-implement-queue-using-stacks](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0969-number-of-recent-calls](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0969-number-of-recent-calls) |
@@ -601,6 +604,7 @@ Collection of Leetcode problems I solve.
 ## Trie
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Graph
