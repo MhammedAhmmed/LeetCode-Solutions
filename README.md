@@ -31,6 +31,7 @@ Collection of Leetcode problems I solve.
 | [0560-subarray-sum-equals-k](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0735-asteroid-collision](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0747-min-cost-climbing-stairs](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0780-max-chunks-to-make-sorted](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
@@ -174,6 +175,7 @@ Collection of Leetcode problems I solve.
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0649-dota2-senate](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0649-dota2-senate) |
 | [0670-maximum-swap](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0670-maximum-swap) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0780-max-chunks-to-make-sorted](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1304-longest-happy-string](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1304-longest-happy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
@@ -272,6 +274,7 @@ Collection of Leetcode problems I solve.
 | [0322-coin-change](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0494-target-sum) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
