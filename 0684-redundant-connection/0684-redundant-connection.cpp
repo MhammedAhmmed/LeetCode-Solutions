@@ -43,14 +43,12 @@ public:
 
         for (vector<int> edge : edges) {
             if (connected(edge[0], edge[1], parents)) {
-                cout << edge[0] << " " << edge[1];
                 return edge;
             }
 
             unionOp(edge[0], edge[1], parents, weight);
         }
 
-        vector<int> res;
-        return res;
+        return {};
     }
 };
