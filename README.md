@@ -36,6 +36,7 @@ Collection of Leetcode problems I solve.
 | [0747-min-cost-climbing-stairs](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0780-max-chunks-to-make-sorted](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0787-sliding-puzzle) |
+| [0854-making-a-large-island](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0945-snakes-and-ladders](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0952-word-subsets) |
@@ -442,6 +443,7 @@ Collection of Leetcode problems I solve.
 | [0684-redundant-connection](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [0871-keys-and-rooms](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0871-keys-and-rooms) |
 | [0988-flip-equivalent-binary-trees](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -549,6 +551,7 @@ Collection of Leetcode problems I solve.
 | [0787-sliding-puzzle](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0787-sliding-puzzle) |
 | [0801-is-graph-bipartite](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [0871-keys-and-rooms](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0871-keys-and-rooms) |
 | [0945-snakes-and-ladders](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0945-snakes-and-ladders) |
 | [1396-count-servers-that-communicate](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
@@ -634,6 +637,7 @@ Collection of Leetcode problems I solve.
 |  |
 | ------- |
 | [0787-sliding-puzzle](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0787-sliding-puzzle) |
+| [0854-making-a-large-island](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0945-snakes-and-ladders) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1396-count-servers-that-communicate](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
@@ -717,6 +721,7 @@ Collection of Leetcode problems I solve.
 | [0547-number-of-provinces](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0801-is-graph-bipartite) |
+| [0854-making-a-large-island](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
