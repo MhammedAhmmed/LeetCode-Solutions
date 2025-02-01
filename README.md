@@ -14,6 +14,7 @@ Collection of Leetcode problems I solve.
 | [0068-text-justification](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0068-text-justification) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0135-candy) |
@@ -276,6 +277,7 @@ Collection of Leetcode problems I solve.
 | [0022-generate-parentheses](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0072-edit-distance](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0072-edit-distance) |
+| [0118-pascals-triangle](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0279-perfect-squares](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0279-perfect-squares) |
