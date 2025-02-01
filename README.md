@@ -15,6 +15,7 @@ Collection of Leetcode problems I solve.
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -116,6 +117,7 @@ Collection of Leetcode problems I solve.
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0128-longest-consecutive-sequence](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
@@ -734,6 +736,7 @@ Collection of Leetcode problems I solve.
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0399-evaluate-division](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0684-redundant-connection) |
