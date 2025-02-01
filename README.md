@@ -281,6 +281,7 @@ Collection of Leetcode problems I solve.
 | [0494-target-sum](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
+| [0806-domino-and-tromino-tiling](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0806-domino-and-tromino-tiling) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
