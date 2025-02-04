@@ -21,6 +21,7 @@ Collection of Leetcode problems I solve.
 | [0137-single-number-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0212-word-search-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0228-summary-ranges) |
@@ -368,6 +369,7 @@ Collection of Leetcode problems I solve.
 | [0071-simplify-path](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0208-implement-trie-prefix-tree](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0392-is-subsequence) |
@@ -624,6 +626,7 @@ Collection of Leetcode problems I solve.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0077-combinations) |
+| [0212-word-search-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -657,6 +660,7 @@ Collection of Leetcode problems I solve.
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1397-search-suggestions-system](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1397-search-suggestions-system) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -680,6 +684,7 @@ Collection of Leetcode problems I solve.
 ## Matrix
 |  |
 | ------- |
+| [0212-word-search-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [0787-sliding-puzzle](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0945-snakes-and-ladders) |
