@@ -31,7 +31,7 @@ public:
 
 class Solution {
 public:
-    vector<string> res;
+    unordered_set<string> st;
     vector<int> X{1, -1, 0, 0};
     vector<int> Y{0, 0, 1, -1};
 
@@ -41,7 +41,7 @@ public:
         vis[i][j] = 1;
 
         if (node->isEnd) {
-            res.push_back(word);
+            st.insert(word);
         }
 
         for (int k = 0; k < 4; k++) {
@@ -67,8 +67,8 @@ public:
         }
 
         int m = board.size(), n = board[0].size();
+
         vector<vector<bool>> vis(m, vector<bool>(n, false));
-        
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
                 if (trie->root->child[board[i][j] - 'a'] != nullptr) {
@@ -79,14 +79,8 @@ public:
             }
         }
 
-        unordered_set<string> st;
-        for (string word : res) {
-            st.insert(word);
-        }
-
-        res.clear();
-
-        for (auto str : st) {
+        vector<string> res;
+        for (string str : st) {
             res.push_back(str);
         }
 
