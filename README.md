@@ -29,6 +29,7 @@ Collection of Leetcode problems I solve.
 | [0334-increasing-triplet-subsequence](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0376-wiggle-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0384-shuffle-an-array](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0384-shuffle-an-array) |
 | [0399-evaluate-division](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0399-evaluate-division) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0494-target-sum](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0494-target-sum) |
@@ -569,6 +570,7 @@ Collection of Leetcode problems I solve.
 | [0208-implement-trie-prefix-tree](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0232-implement-queue-using-stacks](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0384-shuffle-an-array](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0384-shuffle-an-array) |
 | [0969-number-of-recent-calls](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0969-number-of-recent-calls) |
 | [2413-smallest-number-in-infinite-set](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2413-smallest-number-in-infinite-set) |
 ## Binary Search Tree
@@ -623,6 +625,7 @@ Collection of Leetcode problems I solve.
 | [0189-rotate-array](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0279-perfect-squares](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0384-shuffle-an-array](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0384-shuffle-an-array) |
 | [0670-maximum-swap](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0670-maximum-swap) |
 | [0795-k-th-symbol-in-grammar](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0795-k-th-symbol-in-grammar) |
 | [2716-prime-subtraction-operation](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2716-prime-subtraction-operation) |
@@ -739,6 +742,7 @@ Collection of Leetcode problems I solve.
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0384-shuffle-an-array](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0384-shuffle-an-array) |
 ## Shortest Path
 |  |
 | ------- |
