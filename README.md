@@ -644,6 +644,7 @@ Collection of Leetcode problems I solve.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0077-combinations) |
 | [0212-word-search-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
