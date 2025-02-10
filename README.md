@@ -290,6 +290,7 @@ Collection of Leetcode problems I solve.
 | [1002-maximum-width-ramp](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [3447-clear-digits](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -427,6 +428,7 @@ Collection of Leetcode problems I solve.
 | [3195-separate-black-and-white-balls](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3195-separate-black-and-white-balls) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3447-clear-digits](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3451-string-compression-iii) |
 ## Counting
 |  |
@@ -683,6 +685,7 @@ Collection of Leetcode problems I solve.
 | [2553-total-cost-to-hire-k-workers](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3447-clear-digits) |
 ## Trie
 |  |
 | ------- |
