@@ -446,6 +446,7 @@ Collection of Leetcode problems I solve.
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -666,6 +667,7 @@ Collection of Leetcode problems I solve.
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0394-decode-string](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0394-decode-string) |
