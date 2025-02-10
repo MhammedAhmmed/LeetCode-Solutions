@@ -134,6 +134,7 @@ Collection of Leetcode problems I solve.
 | [0030-substring-with-concatenation-of-all-words](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0128-longest-consecutive-sequence](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0142-linked-list-cycle-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
@@ -254,6 +255,7 @@ Collection of Leetcode problems I solve.
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0142-linked-list-cycle-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0392-is-subsequence) |
@@ -455,6 +457,7 @@ Collection of Leetcode problems I solve.
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0142-linked-list-cycle-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0328-odd-even-linked-list](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0328-odd-even-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
