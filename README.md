@@ -293,6 +293,7 @@ Collection of Leetcode problems I solve.
 | [1002-maximum-width-ramp](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
@@ -419,6 +420,7 @@ Collection of Leetcode problems I solve.
 | [1904-second-largest-digit-in-a-string](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1923-sentence-similarity-iii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1923-sentence-similarity-iii) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2232-adding-spaces-to-a-string](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -686,6 +688,7 @@ Collection of Leetcode problems I solve.
 | [0068-text-justification](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0068-text-justification) |
 | [0735-asteroid-collision](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2232-adding-spaces-to-a-string](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
