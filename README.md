@@ -9,6 +9,7 @@ Collection of Leetcode problems I solve.
 | [0004-median-of-two-sorted-arrays](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0051-n-queens) |
@@ -254,6 +255,7 @@ Collection of Leetcode problems I solve.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
