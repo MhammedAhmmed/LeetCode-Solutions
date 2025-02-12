@@ -14,9 +14,20 @@ class Solution {
             return -1;
         }
 
-       sort(same.begin(), same.end());
-       int len = same.size();
-       return same[len - 1] + same[len - 2];
+        int maxE = max(same[0], same[1]);
+        int bMaxE = min(same[0], same[1]);
+
+        for(int i = 2; i < same.size(); i++){
+            if(same[i] >= maxE){
+                bMaxE = maxE;
+                maxE = same[i];
+            }
+            else if(same[i] > bMaxE){
+                bMaxE = same[i];
+            }
+        }
+
+        return maxE + bMaxE;
     }
 public:
     int maximumSum(vector<int>& nums) {
