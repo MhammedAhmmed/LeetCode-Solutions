@@ -10,6 +10,10 @@ class Solution {
         return sum;
     }
     int maxPair(vector<int>&same){
+        if(same.size() <= 1){
+            return -1;
+        }
+
        sort(same.begin(), same.end());
        int len = same.size();
        return same[len - 1] + same[len - 2];
@@ -24,9 +28,7 @@ public:
 
         int res = -1;
         for(auto entry: sameDigit){
-            if(entry.second.size() > 1){
-                res = max(res, maxPair(entry.second));
-            }
+            res = max(res, maxPair(entry.second));
         }
 
         return res;
