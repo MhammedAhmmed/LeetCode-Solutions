@@ -1,6 +1,6 @@
 class ProductOfNumbers {
 public:
-    vector<long long> mul;
+    vector<int> mul;
     int lastZeroPos = -1;
     int len = 0;
     void add(int num) {
