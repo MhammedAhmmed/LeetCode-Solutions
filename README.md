@@ -64,6 +64,7 @@ Collection of Leetcode problems I solve.
 | [1397-search-suggestions-system](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1397-search-suggestions-system) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1477-product-of-the-last-k-numbers](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1524-string-matching-in-an-array](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -381,6 +382,7 @@ Collection of Leetcode problems I solve.
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1477-product-of-the-last-k-numbers](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1833-find-the-highest-altitude](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1833-find-the-highest-altitude) |
@@ -612,6 +614,7 @@ Collection of Leetcode problems I solve.
 | [0380-insert-delete-getrandom-o1](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0384-shuffle-an-array) |
 | [0969-number-of-recent-calls](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0969-number-of-recent-calls) |
+| [1477-product-of-the-last-k-numbers](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [2413-smallest-number-in-infinite-set](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2413-smallest-number-in-infinite-set) |
 | [2434-design-a-number-container-system](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2434-design-a-number-container-system) |
 ## Binary Search Tree
@@ -669,6 +672,7 @@ Collection of Leetcode problems I solve.
 | [0384-shuffle-an-array](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0384-shuffle-an-array) |
 | [0670-maximum-swap](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0670-maximum-swap) |
 | [0795-k-th-symbol-in-grammar](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0795-k-th-symbol-in-grammar) |
+| [1477-product-of-the-last-k-numbers](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2716-prime-subtraction-operation) |
 ## Backtracking
@@ -814,6 +818,7 @@ Collection of Leetcode problems I solve.
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0969-number-of-recent-calls) |
+| [1477-product-of-the-last-k-numbers](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 ## Rolling Hash
 |  |
 | ------- |
