@@ -1,21 +1,22 @@
 class Solution {
-    bool validNum(int num, string square, int sum, int index){
-        if(index >= square.size()){
-            return sum == num;
+    bool validNum(int i, int num, int sum){
+        if(num == 0){
+            return sum == i;
         }
 
-        int len = square.size();
+        int x = 1;
+        int sufNum = 0;
+        while(num){
+            sufNum += (x * (num % 10));
+            num /= 10;
 
-        for(int i = index; i < len; i++){
-            
-            int substrNum = stoi(square.substr(index, i - index + 1));
-            sum += substrNum;
-
-            if(validNum(num, square, sum, i + 1)){
+            sum += sufNum;
+            if(validNum(i, num, sum)){
                 return true;
             }
+            sum -= sufNum;
 
-            sum -= substrNum;
+            x *= 10;
         }
 
         return false;
@@ -25,7 +26,7 @@ public:
         int pun = 1;
 
         for(int i = 9; i <= n; i++){
-            if(validNum(i, to_string(i * i), 0, 0)){
+            if(validNum(i, i * i, 0)){
                 pun += (i * i);
             }
         }
