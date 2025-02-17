@@ -1,5 +1,6 @@
 class Solution {
-    unordered_set<string>res;
+
+    int x = 0;
 
     void allPossibilities(string tiles, string seq, int n, vector<bool>&take){
         if(seq.size() >= n){
@@ -10,11 +11,10 @@ class Solution {
         for(int i = 0; i < n; i++){
             if(!take[i] && tiles[i] != prev){
                 prev = tiles[i];
-                
+                x++;
+
                 take[i] = true;
                 seq.push_back(tiles[i]);
-
-                res.insert(seq);
 
                 allPossibilities(tiles, seq, n, take);
 
@@ -30,8 +30,9 @@ public:
         string seq = "";
         vector<bool>take(n, false);
 
+        sort(tiles.begin(), tiles.end());
         allPossibilities(tiles, seq, n, take);
 
-        return res.size();
+        return x;
     }
 };
