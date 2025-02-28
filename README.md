@@ -346,6 +346,7 @@ Collection of Leetcode problems I solve.
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0806-domino-and-tromino-tiling) |
+| [1170-shortest-common-supersequence](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1170-shortest-common-supersequence) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -436,6 +437,7 @@ Collection of Leetcode problems I solve.
 | [0812-rotate-string](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1160-letter-tile-possibilities) |
+| [1170-shortest-common-supersequence](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1170-shortest-common-supersequence) |
 | [1197-parsing-a-boolean-expression](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1304-longest-happy-string) |
