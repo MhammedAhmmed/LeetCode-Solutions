@@ -1,4 +1,5 @@
 class Solution {
+
     void colorComp(int node, int color, vector<vector<int>> adj,
                    vector<int>& colors) {
 
@@ -26,35 +27,24 @@ public:
 
         vector<int> colors(n, -1);
         unordered_map<int, int> freq;
+        unordered_set<int> comps;
         int color = 0;
 
         for (int i = 0; i < n; i++) {
             if (colors[i] == -1) {
+                comps.insert(color);
                 colorComp(i, color++, adj, colors);
             }
 
             freq[colors[i]]++;
         }
 
-        int compComponent = 0;
-        for (auto compFreq : freq) {
-            int compColor = compFreq.first;
-            int compSize = compFreq.second;
-
-            bool complete = true;
-            for (int i = 0; i < n; i++) {
-                if (colors[i] == compColor) {
-                    if (adj[i].size() != compSize - 1) {
-                        complete = false;
-                    }
-                }
-            }
-
-            if (complete) {
-                compComponent++;
+        for (int i = 0; i < n; i++) {
+            if (adj[i].size() != freq[colors[i]] - 1) {
+                comps.erase(colors[i]);
             }
         }
 
-        return compComponent;
+        return comps.size();
     }
 };
