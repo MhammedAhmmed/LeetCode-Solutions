@@ -366,6 +366,7 @@ Collection of Leetcode problems I solve.
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2164-two-best-non-overlapping-events](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2530-minimize-maximum-of-array](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2530-minimize-maximum-of-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2554-minimum-total-distance-traveled) |
@@ -791,6 +792,7 @@ Collection of Leetcode problems I solve.
 | [0820-find-eventual-safe-states](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0871-keys-and-rooms) |
 | [1558-course-schedule-iv](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1558-course-schedule-iv) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2201-valid-arrangement-of-pairs](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
@@ -859,6 +861,7 @@ Collection of Leetcode problems I solve.
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0399-evaluate-division) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Eulerian Circuit
 |  |
@@ -913,6 +916,7 @@ Collection of Leetcode problems I solve.
 | [0210-course-schedule-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1558-course-schedule-iv) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Merge Sort
 |  |
 | ------- |
