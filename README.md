@@ -163,6 +163,7 @@ Collection of Leetcode problems I solve.
 | [0560-subarray-sum-equals-k](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0768-partition-labels](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0768-partition-labels) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0952-word-subsets) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -237,6 +238,7 @@ Collection of Leetcode problems I solve.
 | [0649-dota2-senate](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0649-dota2-senate) |
 | [0670-maximum-swap](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0670-maximum-swap) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0768-partition-labels](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1304-longest-happy-string](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1304-longest-happy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
@@ -304,6 +306,7 @@ Collection of Leetcode problems I solve.
 | [0443-string-compression](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0768-partition-labels](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0768-partition-labels) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -458,6 +461,7 @@ Collection of Leetcode problems I solve.
 | [0443-string-compression](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0649-dota2-senate](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0649-dota2-senate) |
+| [0768-partition-labels](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1160-letter-tile-possibilities) |
