@@ -171,6 +171,7 @@ Collection of Leetcode problems I solve.
 | [1016-subarray-sums-divisible-by-k](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1160-letter-tile-possibilities) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1319-unique-number-of-occurrences](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1364-tuple-with-same-product](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -556,6 +557,7 @@ Collection of Leetcode problems I solve.
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -585,6 +587,7 @@ Collection of Leetcode problems I solve.
 | [0904-leaf-similar-trees](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0904-leaf-similar-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -613,6 +616,7 @@ Collection of Leetcode problems I solve.
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -709,6 +713,7 @@ Collection of Leetcode problems I solve.
 | [0871-keys-and-rooms](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0871-keys-and-rooms) |
 | [0945-snakes-and-ladders](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0945-snakes-and-ladders) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1396-count-servers-that-communicate](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1876-map-of-highest-peak) |
