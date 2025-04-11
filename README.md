@@ -132,6 +132,7 @@ Collection of Leetcode problems I solve.
 | [2888-minimum-index-of-a-valid-split](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3001-apply-operations-to-maximize-score](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3001-apply-operations-to-maximize-score) |
+| [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3291-find-if-array-can-be-sorted](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
