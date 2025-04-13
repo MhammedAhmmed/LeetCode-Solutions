@@ -742,6 +742,7 @@ Collection of Leetcode problems I solve.
 | [0670-maximum-swap](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0670-maximum-swap) |
 | [0795-k-th-symbol-in-grammar](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0795-k-th-symbol-in-grammar) |
 | [1477-product-of-the-last-k-numbers](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
+| [2050-count-good-numbers](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2716-prime-subtraction-operation) |
@@ -782,6 +783,7 @@ Collection of Leetcode problems I solve.
 | [0795-k-th-symbol-in-grammar](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0795-k-th-symbol-in-grammar) |
 | [1197-parsing-a-boolean-expression](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [2050-count-good-numbers](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2050-count-good-numbers) |
 ## Simulation
 |  |
 | ------- |
