@@ -69,6 +69,7 @@ Collection of Leetcode problems I solve.
 | [1524-string-matching-in-an-array](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1656-count-good-triplets](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1656-count-good-triplets) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -771,6 +772,7 @@ Collection of Leetcode problems I solve.
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1656-count-good-triplets) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3548-find-the-count-of-good-integers](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3548-find-the-count-of-good-integers) |
 ## Recursion
