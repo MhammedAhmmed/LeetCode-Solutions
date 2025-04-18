@@ -455,6 +455,7 @@ Collection of Leetcode problems I solve.
 | [0022-generate-parentheses](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0071-simplify-path) |
