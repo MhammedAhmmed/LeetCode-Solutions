@@ -181,6 +181,7 @@ Collection of Leetcode problems I solve.
 | [1364-tuple-with-same-product](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1500-count-largest-group](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1694-make-sum-divisible-by-p](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -752,6 +753,7 @@ Collection of Leetcode problems I solve.
 | [0795-k-th-symbol-in-grammar](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0795-k-th-symbol-in-grammar) |
 | [0797-rabbits-in-forest](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [1477-product-of-the-last-k-numbers](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
+| [1500-count-largest-group](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1500-count-largest-group) |
 | [2050-count-good-numbers](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
