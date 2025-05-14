@@ -96,6 +96,7 @@ Collection of Leetcode problems I solve.
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2215-finding-3-digit-even-numbers](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2232-adding-spaces-to-a-string](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2262-solving-questions-with-brainpower](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2262-solving-questions-with-brainpower) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -190,6 +191,7 @@ Collection of Leetcode problems I solve.
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2107-find-unique-binary-string](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2107-find-unique-binary-string) |
+| [2215-finding-3-digit-even-numbers](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2331-intersection-of-multiple-arrays](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2331-intersection-of-multiple-arrays) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -285,6 +287,7 @@ Collection of Leetcode problems I solve.
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2215-finding-3-digit-even-numbers](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2331-intersection-of-multiple-arrays](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2331-intersection-of-multiple-arrays) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -790,6 +793,7 @@ Collection of Leetcode problems I solve.
 | ------- |
 | [1656-count-good-triplets](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1656-count-good-triplets) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2215-finding-3-digit-even-numbers](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [3548-find-the-count-of-good-integers](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3548-find-the-count-of-good-integers) |
 ## Recursion
 |  |
