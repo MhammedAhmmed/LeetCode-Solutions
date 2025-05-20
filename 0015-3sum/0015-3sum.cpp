@@ -1,45 +1,34 @@
 class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
-
+        
         sort(nums.begin(), nums.end());
-        int p = 0, n = nums.size();
-
+        int n = nums.size();
         vector<vector<int>>res;
-        vector<int>temp(3);
 
-        while(p < n - 2){
-            temp[0] = nums[p];
-
-            int l = p + 1, r = n - 1;
-            int prel = nums[p] - 1;
-
-            while(l < r){
-                if(nums[p] + nums[l] + nums[r] > 0){
-                    r--;
-                }
-                else if(nums[p] + nums[l] + nums[r] < 0){
-                    l++;
-                }
-                else{
-                    if(nums[l] != prel){
-                        prel = nums[l];
-
-                        temp[1] = nums[l];
-                        temp[2] = nums[r];
-                        res.push_back(temp);
-                    }
-                    l++;
-                    r--;
-                }
+        for(int i = 0; i < n - 2; i++){
+            if(i != 0 && (nums[i] == nums[i - 1])){
+                continue;
             }
 
-            p++;
-            while(p < n && nums[p] == nums[p - 1]){
-                p++;
+            int p1 = i + 1, p2 = n - 1;
+            int prev = INT_MAX;
+
+            while(p1 < p2){
+                if(nums[i] + nums[p1] + nums[p2] > 0){
+                    p2--;
+                }else if(nums[i] + nums[p1] + nums[p2] < 0){
+                    p1++;
+                }else{
+                    if(nums[p1] != prev){
+                        res.push_back({nums[i], nums[p1], nums[p2]});
+                        prev = nums[p1];
+                    }
+                    p1++;
+                    p2--;
+                }
             }
         }
-        
         return res;
     }
 };
