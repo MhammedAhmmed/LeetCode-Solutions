@@ -777,6 +777,7 @@ Collection of Leetcode problems I solve.
 | [2716-prime-subtraction-operation](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3001-apply-operations-to-maximize-score](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3001-apply-operations-to-maximize-score) |
+| [3201-distribute-candies-among-children-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Backtracking
@@ -804,6 +805,7 @@ Collection of Leetcode problems I solve.
 | [1656-count-good-triplets](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1656-count-good-triplets) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
+| [3201-distribute-candies-among-children-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3548-find-the-count-of-good-integers) |
 ## Recursion
 |  |
@@ -987,5 +989,6 @@ Collection of Leetcode problems I solve.
 ## Combinatorics
 |  |
 | ------- |
+| [3201-distribute-candies-among-children-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3548-find-the-count-of-good-integers) |
 <!---LeetCode Topics End-->
