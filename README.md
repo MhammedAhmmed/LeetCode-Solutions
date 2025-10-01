@@ -773,6 +773,7 @@ Collection of Leetcode problems I solve.
 | [0797-rabbits-in-forest](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [1477-product-of-the-last-k-numbers](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1500-count-largest-group) |
+| [1642-water-bottles](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1642-water-bottles) |
 | [2050-count-good-numbers](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -827,6 +828,7 @@ Collection of Leetcode problems I solve.
 | [0067-add-binary](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0068-text-justification) |
 | [0735-asteroid-collision](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
+| [1642-water-bottles](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2232-adding-spaces-to-a-string](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
