@@ -29,6 +29,7 @@ Collection of Leetcode problems I solve.
 | [0212-word-search-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0221-maximal-square](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0228-summary-ranges) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0322-coin-change](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0322-coin-change) |
@@ -395,6 +396,7 @@ Collection of Leetcode problems I solve.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0221-maximal-square](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0376-wiggle-subsequence](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0376-wiggle-subsequence) |
@@ -883,6 +885,7 @@ Collection of Leetcode problems I solve.
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0212-word-search-ii) |
+| [0221-maximal-square](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0787-sliding-puzzle) |
