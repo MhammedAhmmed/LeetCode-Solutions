@@ -37,6 +37,7 @@ Collection of Leetcode problems I solve.
 | [0380-insert-delete-getrandom-o1](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0384-shuffle-an-array) |
 | [0399-evaluate-division](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0399-evaluate-division) |
+| [0407-trapping-rain-water-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0494-target-sum](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0502-ipo](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0502-ipo) |
@@ -432,6 +433,7 @@ Collection of Leetcode problems I solve.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0502-ipo](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0502-ipo) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -737,6 +739,7 @@ Collection of Leetcode problems I solve.
 | [0279-perfect-squares](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0399-evaluate-division) |
+| [0407-trapping-rain-water-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0433-minimum-genetic-mutation](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
@@ -881,6 +884,7 @@ Collection of Leetcode problems I solve.
 | ------- |
 | [0212-word-search-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0945-snakes-and-ladders) |
