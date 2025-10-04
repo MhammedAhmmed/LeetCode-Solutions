@@ -7,6 +7,7 @@ Collection of Leetcode problems I solve.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -251,6 +252,7 @@ Collection of Leetcode problems I solve.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
@@ -319,6 +321,7 @@ Collection of Leetcode problems I solve.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
