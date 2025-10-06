@@ -82,6 +82,7 @@ Collection of Leetcode problems I solve.
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1753-path-with-minimum-effort](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [1755-defuse-the-bomb](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -447,6 +448,7 @@ Collection of Leetcode problems I solve.
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1304-longest-happy-string](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1304-longest-happy-string) |
 | [1397-search-suggestions-system](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1397-search-suggestions-system) |
+| [1753-path-with-minimum-effort](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2164-two-best-non-overlapping-events](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -638,6 +640,7 @@ Collection of Leetcode problems I solve.
 | [1396-count-servers-that-communicate](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1558-course-schedule-iv) |
+| [1753-path-with-minimum-effort](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [2201-valid-arrangement-of-pairs](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2201-valid-arrangement-of-pairs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -684,6 +687,7 @@ Collection of Leetcode problems I solve.
 | [1397-search-suggestions-system](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1397-search-suggestions-system) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1753-path-with-minimum-effort](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2164-two-best-non-overlapping-events](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2164-two-best-non-overlapping-events) |
@@ -767,6 +771,7 @@ Collection of Leetcode problems I solve.
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1396-count-servers-that-communicate](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1558-course-schedule-iv) |
+| [1753-path-with-minimum-effort](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1876-map-of-highest-peak) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -907,6 +912,7 @@ Collection of Leetcode problems I solve.
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1396-count-servers-that-communicate](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1753-path-with-minimum-effort](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1876-map-of-highest-peak) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2089-maximum-matrix-sum](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2089-maximum-matrix-sum) |
@@ -1000,6 +1006,7 @@ Collection of Leetcode problems I solve.
 | [0854-making-a-large-island](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1396-count-servers-that-communicate](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
+| [1753-path-with-minimum-effort](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2793-count-the-number-of-complete-components) |
