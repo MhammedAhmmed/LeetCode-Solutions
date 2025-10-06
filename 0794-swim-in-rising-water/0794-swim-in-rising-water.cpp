@@ -1,39 +1,42 @@
 class Solution {
-    bool reach = false;
-    void dfs(vector<vector<int>>& grid, vector<vector<bool>>& vis, int i, int j,
-             int n, int t) {
-        if (i < 0 || i >= n || j < 0 || j >= n || vis[i][j] || grid[i][j] > t) {
-            return;
-        }
-
-        vis[i][j] = true;
-
-        if (i == n - 1 && j == n - 1) {
-            reach = true;
-            return;
-        }
-
-        dfs(grid, vis, i + 1, j, n, t);
-        dfs(grid, vis, i - 1, j, n, t);
-        dfs(grid, vis, i, j + 1, n, t);
-        dfs(grid, vis, i, j - 1, n, t);
-    }
-
 public:
     int swimInWater(vector<vector<int>>& grid) {
 
         int n = grid.size();
-        vector<vector<bool>> vis;
-        int t = 0;
-        while (!reach) {
-            vis.assign(n, vector<bool>(n, false));
-            dfs(grid, vis, 0, 0, n, t);
-            if (reach) {
-                return t;
+        vector<vector<bool>> vis(n, vector<bool>(n, false));
+
+        priority_queue<pair<int, pair<int, int>>,
+                       vector<pair<int, pair<int, int>>>,
+                       greater<pair<int, pair<int, int>>>>
+            pq;
+        pq.push({grid[0][0], {0, 0}});
+
+        vector<int> X{1, -1, 0, 0};
+        vector<int> Y{0, 0, 1, -1};
+        while (!pq.empty()) {
+            int weight = pq.top().first;
+            int x = pq.top().second.first;
+            int y = pq.top().second.second;
+
+            if (x == n - 1 && y == n - 1) {
+                return weight;
             }
 
-            t++;
+            pq.pop();
+            if (vis[x][y]) {
+                continue;
+            }
+            vis[x][y] = true;
+
+            for (int k = 0; k < 4; k++) {
+                int r = x + X[k];
+                int c = y + Y[k];
+
+                if (r >= 0 && r < n && c >= 0 && c < n && !vis[r][c]) {
+                    pq.push({max(weight, grid[r][c]), {r, c}});
+                }
+            }
         }
-        return t;
+        return 0;
     }
 };
