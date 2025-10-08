@@ -22,7 +22,6 @@ public:
                 }
             }
             res[i] = m - index;
-            cout << res[i] << " ";
         }
 
         return res;
