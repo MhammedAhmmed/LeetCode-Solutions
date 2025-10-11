@@ -162,6 +162,7 @@ Collection of Leetcode problems I solve.
 | [3427-special-array-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3483-alternating-groups-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3483-alternating-groups-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -228,6 +229,7 @@ Collection of Leetcode problems I solve.
 | [2888-minimum-index-of-a-valid-split](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3548-find-the-count-of-good-integers](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -328,6 +330,7 @@ Collection of Leetcode problems I solve.
 | [3001-apply-operations-to-maximize-score](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3291-find-if-array-can-be-sorted](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Two Pointers
 |  |
 | ------- |
@@ -368,6 +371,7 @@ Collection of Leetcode problems I solve.
 | [2699-count-the-number-of-fair-pairs](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3195-separate-black-and-white-balls) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Stack
 |  |
 | ------- |
@@ -435,6 +439,7 @@ Collection of Leetcode problems I solve.
 | [2562-count-ways-to-build-good-strings](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Database
 |  |
@@ -579,6 +584,7 @@ Collection of Leetcode problems I solve.
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2448-count-number-of-bad-pairs](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Linked List
 |  |
@@ -714,6 +720,7 @@ Collection of Leetcode problems I solve.
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3427-special-array-ii) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3643-zero-array-transformation-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3643-zero-array-transformation-ii) |
 ## Bit Manipulation
 |  |
