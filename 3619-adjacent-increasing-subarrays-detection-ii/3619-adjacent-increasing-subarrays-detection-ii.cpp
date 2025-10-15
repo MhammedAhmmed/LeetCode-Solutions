@@ -3,14 +3,11 @@ public:
     int maxIncreasingSubarrays(vector<int>& nums) {
 
         int n = nums.size();
-        vector<int> maxInc(n);
-        maxInc[n - 1] = 1;
+        vector<int> maxInc(n, 1);
 
         for (int i = n - 2; i >= 0; i--) {
             if (nums[i] < nums[i + 1]) {
                 maxInc[i] = maxInc[i + 1] + 1;
-            } else {
-                maxInc[i] = 1;
             }
         }
 
