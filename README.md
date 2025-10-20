@@ -101,6 +101,7 @@ Collection of Leetcode problems I solve.
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2089-maximum-matrix-sum](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2089-maximum-matrix-sum) |
 | [2107-find-unique-binary-string](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2107-find-unique-binary-string) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2145-grid-game](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2164-two-best-non-overlapping-events) |
@@ -563,6 +564,7 @@ Collection of Leetcode problems I solve.
 | [1923-sentence-similarity-iii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1923-sentence-similarity-iii) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2107-find-unique-binary-string) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2232-adding-spaces-to-a-string](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -892,6 +894,7 @@ Collection of Leetcode problems I solve.
 | [1642-water-bottles](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2232-adding-spaces-to-a-string](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
