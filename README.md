@@ -582,6 +582,7 @@ Collection of Leetcode problems I solve.
 | [3451-string-compression-iii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3451-string-compression-iii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Counting
 |  |
 | ------- |
@@ -847,6 +848,7 @@ Collection of Leetcode problems I solve.
 | [3336-water-bottles-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3336-water-bottles-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -906,6 +908,7 @@ Collection of Leetcode problems I solve.
 | [3336-water-bottles-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3336-water-bottles-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3447-clear-digits) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Trie
 |  |
@@ -974,6 +977,7 @@ Collection of Leetcode problems I solve.
 | ------- |
 | [2716-prime-subtraction-operation](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2716-prime-subtraction-operation) |
 | [3001-apply-operations-to-maximize-score](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3001-apply-operations-to-maximize-score) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1072,4 +1076,5 @@ Collection of Leetcode problems I solve.
 | [2324-find-triangular-sum-of-an-array](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3201-distribute-candies-among-children-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3548-find-the-count-of-good-integers) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
