@@ -762,6 +762,7 @@ Collection of Leetcode problems I solve.
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3394-minimum-array-end) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Design
 |  |
 | ------- |
@@ -854,6 +855,7 @@ Collection of Leetcode problems I solve.
 | [3336-water-bottles-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3336-water-bottles-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Backtracking
 |  |
