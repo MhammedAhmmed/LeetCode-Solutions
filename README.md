@@ -170,6 +170,7 @@ Collection of Leetcode problems I solve.
 | [3483-alternating-groups-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3483-alternating-groups-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -243,6 +244,7 @@ Collection of Leetcode problems I solve.
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3548-find-the-count-of-good-integers](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Sliding Window
 |  |
@@ -854,6 +856,7 @@ Collection of Leetcode problems I solve.
 | [3201-distribute-candies-among-children-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3336-water-bottles-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3336-water-bottles-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3548-find-the-count-of-good-integers) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
