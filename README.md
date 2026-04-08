@@ -178,6 +178,7 @@ Collection of Leetcode problems I solve.
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3643-zero-array-transformation-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3643-zero-array-transformation-ii) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Hash Table
 |  |
@@ -929,6 +930,7 @@ Collection of Leetcode problems I solve.
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3447-clear-digits) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Trie
@@ -1007,6 +1009,7 @@ Collection of Leetcode problems I solve.
 | [0148-sort-list](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Queue
 |  |
 | ------- |
