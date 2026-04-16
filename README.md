@@ -473,6 +473,7 @@ Collection of Leetcode problems I solve.
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0175-combine-two-tables) |
 | [0596-classes-more-than-5-students](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0596-classes-more-than-5-students) |
 | [0619-biggest-single-number](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/0620-not-boring-movies) |
