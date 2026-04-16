@@ -172,6 +172,7 @@ Collection of Leetcode problems I solve.
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3483-alternating-groups-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3483-alternating-groups-ii) |
+| [3488-closest-equal-element-queries](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3488-closest-equal-element-queries) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -250,6 +251,7 @@ Collection of Leetcode problems I solve.
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3488-closest-equal-element-queries](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3488-closest-equal-element-queries) |
 | [3548-find-the-count-of-good-integers](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -755,6 +757,7 @@ Collection of Leetcode problems I solve.
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3427-special-array-ii) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3488-closest-equal-element-queries](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3488-closest-equal-element-queries) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3634-minimum-removals-to-balance-array](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3643-zero-array-transformation-ii](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3643-zero-array-transformation-ii) |
