@@ -882,6 +882,7 @@ Collection of Leetcode problems I solve.
 | [3676-smallest-number-with-all-set-bits](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3783-mirror-distance-of-an-integer](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Backtracking
 |  |
 | ------- |
