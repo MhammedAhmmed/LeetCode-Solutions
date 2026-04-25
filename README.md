@@ -101,6 +101,7 @@ Collection of Leetcode problems I solve.
 | [1940-maximum-xor-for-each-query](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-maximum-matrix-sum](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2089-maximum-matrix-sum) |
 | [2107-find-unique-binary-string](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2107-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -308,6 +309,7 @@ Collection of Leetcode problems I solve.
 | [1502-construct-k-palindrome-strings](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1612-avoid-flood-in-the-city](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-maximum-matrix-sum](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2089-maximum-matrix-sum) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/MhammedAhmmed/LeetCode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
