@@ -11,8 +11,7 @@ public:
             freq[nums[l2]]++;
 
             while(freq[nums[l2]] > k){
-                freq[nums[l1]]--;
-                l1++;
+                freq[nums[l1++]]--;
             }
             res = max(res, l2 - l1 + 1);
             l2++;
